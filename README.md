@@ -1,4 +1,4 @@
-# Buscador de Noticias
+# Buscador de Bebidas con react + boostrap
 
 _Proyecto que utiliza Context consumiendo una API externa_
 
