@@ -85,7 +85,7 @@ const Formulario = () => {
                 <Col md={3}>
                     <Button
                         type='submit'
-                        variant='danger'
+                        variant='primary'
                         className='text-uppercase w-100 mt-5 fw-bold'
                     >
                         Buscar Bebidas

@@ -15,7 +15,7 @@ const Bebida = ({ bebida }) => {
                 <Card.Body>
                     <Card.Title>{bebida.strDrink}</Card.Title>
                     <Button
-                        variant={'warning'}
+                        variant="primary"
                         className='w-100 text-uppercase mt-2 fw-bold'
                         onClick={() => {
                             handleModalClick();
